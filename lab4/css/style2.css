@@ -1,0 +1,12 @@
+h2 {
+    color: #ff20f0;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ccc;
+    margin: 5px;
+}
